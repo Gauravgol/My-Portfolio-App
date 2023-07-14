@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EducationActivity"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tbDesignat45ion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Education"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:layout_margin="20dp"
+
+
+        />
+    <TextView
+        android:id="@+id/tbDesignat342ion1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B.Tech(CSE)
+"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesigna33tion2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DEV BHOOMI UTTARAKHAND UNIVERSITY"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+
+        />
+    <TextView
+        android:id="@+id/tbDesig3333nation12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2019-2023"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_margin="5dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation123"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" 12th(73%)
+
+"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation124"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="S.D.S.N. INTER COLLEGE(UK Board)"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        /><TextView
+    android:id="@+id/tbDesignation11"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="2019"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="15sp"
+    android:layout_margin="5dp"
+
+    /> <TextView
+    android:id="@+id/tbDesignation1263"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text=" 10th(78%)
+
+"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="30sp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="10dp"
+
+    />
+    <TextView
+        android:id="@+id/tbDesignation1264"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="S.D.S.N. INTER COLLEGE(UK Board)"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        /><TextView
+    android:id="@+id/tbDesignation161"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="2017"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="15sp"
+    android:layout_margin="5dp"
+
+    />
+
+    </LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InterestActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tbDesignation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interest"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:layout_margin="20dp"
+
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cooking"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cricket"
+
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Anime"
+
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation123"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Travelling"
+
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+
+        />
+
+</LinearLayout>

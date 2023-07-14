@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/image"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:contentDescription="Image of mine"
+        />
+
+    <TextView
+        android:id="@+id/tbName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gaurav Gol"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+
+        />
+
+    <TextView
+        android:id="@+id/tbDesignation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Software Developer"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/btnSkills"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Skills"
+        android:layout_margin="20dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/btnEd"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Education "
+        android:layout_margin="20dp"
+        android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnCer"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Certificates"
+            android:layout_margin="20dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnInt"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Interests"
+            android:layout_margin="20dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    </LinearLayout>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CertificateActivity"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tbDesignation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Certificate"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:layout_margin="20dp"
+
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HTML
+"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/tbDesignation12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Coursera"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_margin="5dp"
+
+        /><TextView
+    android:id="@+id/tbDesignation1662"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="(05/2021 - 06/2021)"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="15sp"
+    android:layout_margin="5dp"
+
+    />
+    <TextView
+        android:id="@+id/tbDesignation123"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Java training
+
+"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+
+        />
+    <TextView
+    android:id="@+id/tbDesignation11"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Internshala"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="15sp"
+    android:layout_margin="5dp"
+
+    />
+    <TextView
+        android:id="@+id/tbDesidgnation11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(06/2022 - 08/2022)"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_margin="5dp"
+
+        /><TextView
+    android:id="@+id/tbDesignation1263"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text=" Technical Support Fundamental(Grow with
+Google)
+
+"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="25sp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="10dp"
+
+    />
+    <TextView
+    android:id="@+id/tbDesignation161"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Coursera"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="15sp"
+    android:layout_margin="5dp"
+
+    />
+    <TextView
+        android:id="@+id/tbDesigvnation161"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(04/2022 - 05/2022)"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_margin="5dp"
+
+        />
+    <TextView
+        android:id="@+id/tbDesignation12d63"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Padmavyuha Hackthon 1.0
+
+"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+
+        /> <TextView
+    android:id="@+id/tbDesigvnation5161"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Hackthon"
+    android:gravity="left"
+    android:textStyle="bold"
+    android:textSize="15sp"
+    android:layout_margin="5dp"
+
+    />
+
+</LinearLayout>
